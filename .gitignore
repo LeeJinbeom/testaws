@@ -1,0 +1,6 @@
+__pycache__
+.pyc
+mysql_setting.py
+s3.py
+db.sqlite3
+.vscode
